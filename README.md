@@ -1,7 +1,7 @@
 # key-logger
 key loggering is a recording of each key that the user presses on a  keyboard and saving the data in a text file.
 
-
+# Getting Started
 Our project had a requirement to save the file in kobject, ie in the / sys / 
 folder.
 The actions are usually performed behind the scenes and the user is not 
