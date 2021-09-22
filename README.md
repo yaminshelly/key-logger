@@ -1,7 +1,18 @@
 # key-logger
 key loggering is a recording of each key that the user presses on a  keyboard and saving the data in a text file.
 
-# Getting Started
+## Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+- linux (ubunto)
+- Terminal 
+### commands
+```
+cd shelly/adv_os/klogger_project
+
+```
+
 Our project had a requirement to save the file in kobject, ie in the / sys / 
 folder.
 The actions are usually performed behind the scenes and the user is not 
