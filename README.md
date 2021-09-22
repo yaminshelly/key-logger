@@ -20,7 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 - linux (ubunto)
 - Terminal 
 ### commands
-- We will go to the folder where our file is located
+- Go to the folder where our file is located
 ```
 cd shelly/adv_os/klogger_project
 ```
@@ -33,26 +33,26 @@ make
 ```
 ls
 ```
--We will insert the module into the kernel by the insmod command –
+- Insert the module into the kernel by the insmod command –
 ```
 sudo insmod my_kobject.ko
 ```
--insert password 
+- Insert password 
 ```
 osboxes.org
 ```
--compile the user application file
+- Compile the user application file
 ```
 gcc user.c -o user_app
 ```
--run the user_app :
+- Run the user_app :
 ```
 ./user_app
 ```
--now you in the user app , you can choose if you want to see the file
-or manual like this with all the command : 
-If you choose to see the file press 1 and enter .
-If you want to see the manual press 2 and enter .
+###### Now you in the user app , you can choose if you want to see the file
+###### or manual like this with all the command : 
+  - If you choose to see the file press 1 and enter .
+  - If you want to see the manual press 2 and enter .
 
 
 
