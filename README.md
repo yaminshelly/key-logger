@@ -54,12 +54,13 @@ gcc user.c -o user_app
   - If you choose to see the file press 1 and enter .
   - If you want to see the manual press 2 and enter .
 ## Sources of information
-bootlin - [bootlin] (https://elixir.bootlin.com/linux/v5.14/source/drivers/tty/vt/keybo)
+bootlin - [bootlin](https://elixir.bootlin.com/linux/v5.14/source/drivers/tty/vt/keybo)
 
 
 ## Authors
-Shelly Revivo - [GitHub Pages](https://github.com/yaminshelly)
-Tomer Revivo - [GitHub Pages](https://github.com/TomerRevivo)
+Shelly Revivo - [shelly revivo](https://github.com/yaminshelly)
+
+Tomer Revivo - [tomer revivo](https://github.com/TomerRevivo)
 
 
 
