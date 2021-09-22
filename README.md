@@ -56,7 +56,6 @@ gcc user.c -o user_app
 ## Sources of information
 bootlin - [bootlin](https://elixir.bootlin.com/linux/v5.14/source/drivers/tty/vt/keybo)
 
-
 ## Authors
 Shelly Revivo - [shelly revivo](https://github.com/yaminshelly)
 
